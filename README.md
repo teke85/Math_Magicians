@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-### Description the project.
+### Description of the project.
 - Simple React Setup
 - Use React documentation.
 
