@@ -51,5 +51,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is 
-[licensed](https://github.com/samuelmoiwa/Microverse-student-profile-1/blob/Develop/MIT.md) .
+This project is [MIT](./MIT.md) licensed.
