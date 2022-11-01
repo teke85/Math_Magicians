@@ -3,8 +3,16 @@
 # Math Magicians
 
 ### Description the project.
-- simple React web application.
-- configure with linters 
+- Simple React Setup
+- Use React documentation.
+
+## Built With
+
+- React
+
+## Live Demo or Screenshot
+
+Non Available
 
 # Getting Started
 
