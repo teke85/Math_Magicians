@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> Description the project.
+# Description of the project.
 - simple React web application setup.
 - configure with linters 
 
