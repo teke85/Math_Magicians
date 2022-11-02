@@ -13,7 +13,7 @@
 Run the command below from the terminal
 
 - git clone in your terminal
-- cd Math_magicians
+- cd react-setup
 - run: npm start
 
 ## Built With
