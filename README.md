@@ -41,8 +41,6 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-For Design Inspiration I would like to Acknowledge
 
 ## 📝 License
 
